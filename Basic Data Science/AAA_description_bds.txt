@@ -1,0 +1,5 @@
+(ES) Esta carpeta contiene archivos destinados al aprendizaje de temas básicos del mundo del dato y de la ciencia de datos como
+Estadística Avanzada, SQL, programación con Python, MongoDB y bases de datos no relacionales, etc.
+
+(EN) This repo contains files related to different data science projects on an entry-level basis. This files were used to learn
+about basic data science topics such as Advanced Statistics, Python programming, SQL, MongoDB and non-relational DBs, etc.
