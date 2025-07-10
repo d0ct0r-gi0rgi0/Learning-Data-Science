@@ -1,0 +1,3 @@
+(ES) Procesamiento de lenguaje natural (PLN) sobre diferentes datasets con modelos, tokenizadores y entrenadores variados.
+
+(EN) Natural Language Processing (NLP) on different datasets with a variety of models, tokenizers and trainers.
