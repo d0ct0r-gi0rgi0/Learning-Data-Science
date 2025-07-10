@@ -1,4 +1,12 @@
-(ES) Estos archivos se escribieron con el objetivo de aprender sobre tratamiento y minería de datos para la limpieza de BBDD. También contienen código utilizado en el desarrollo de modelos predictivos para regresiones binarias logísticas como solución a problemas de classificación y regresiones numéricas.
+(ES) Estos archivos se escribieron con el objetivo de aprender sobre tratamiento y minería de datos para la limpieza de BBDD.
+También contienen código utilizado en el desarrollo de modelos predictivos para regresiones binarias logísticas como solución a problemas de classificación y regresiones numéricas. Los siguientes directorios contienen archivos relativos a distintos campos:
+  - Data Mining & Predictive Modeling: minería de datos y modelización predictiva básicas. Data engineering, limpieza de BBDD, 
+    predicciones, etc.
+  - PCA & Clustering: análisis de componentes principales (ACP) y método de Clustering.
+  - Time Series: predicción de series temporales con modelos de tipo SARIMA.
 
 (EN) These files were made with the objective of learning about data treatment and mining to clean DBs. They also containg code
 used for developing predictive models for binary logistic regressions as solutions to classification problems and numeric regressions.
+  - Data Mining & Predictive Modeling: basic data mining and predictive modeling. Data engineering, DB cleaning, predictions, etc.
+  - PCA & Clustering: principal component analysis and clustering methods.
+  - Time Series: time series predictions using SARIMA models.
