@@ -1,0 +1,4 @@
+(ES) Estos archivos se escribieron con el objetivo de aprender sobre tratamiento y minería de datos para la limpieza de BBDD. También contienen código utilizado en el desarrollo de modelos predictivos para regresiones binarias logísticas como solución a problemas de classificación y regresiones numéricas.
+
+(EN) These files were made with the objective of learning about data treatment and mining to clean DBs. They also containg code
+used for developing predictive models for binary logistic regressions as solutions to classification problems and numeric regressions.
